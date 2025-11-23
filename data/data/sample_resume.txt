@@ -1,0 +1,2 @@
+Experienced Machine Learning student skilled in Python, Pandas, NLP, Data Cleaning,
+and building predictive models using Scikit-learn.
