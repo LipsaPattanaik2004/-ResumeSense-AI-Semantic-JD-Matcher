@@ -54,5 +54,5 @@ Batch processing for multiple resumes
 Recruiter-friendly dashboard
 
 ###### Author
-Developed by LIPSA || ITER SOA UNIVERSITY
+Developed by LIPSA || ITER SOA UNIVERSITY ||
 AI • ML • NLP 
