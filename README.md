@@ -9,7 +9,7 @@ Clean modular code in /src
 Jupyter notebooks for experiments
 Ready for extension into ATS or dashboard
 
-### Project Structure
+## Project Structure
 ResumeSense-AI/
 │
 ├── app/                 # App-level runnable scripts
@@ -20,7 +20,7 @@ ResumeSense-AI/
 ├── src/                 # Core NLP & model logic
 └── README.md
 
-#### Tech Stack
+## Tech Stack
 Python 3.10+
 Transformers (BERT, SBERT)
 scikit-learn
@@ -28,31 +28,29 @@ Pandas / NumPy
 NLTK / SpaCy
 Jupyter Notebook
 
-##### How It Works
+## How It Works
 Load resume and job description
 Preprocess text
 Generate embeddings using transformer model
 Compute cosine similarity
 Output match score, strengths, missing skills
 
-###### How to Run
+## How to Run
 git clone https://github.com/<your-username>/ResumeSense-AI.git
 cd ResumeSense-AI
 pip install -r requirements.txt
 
 
-###### Run notebooks & app:
+## Run notebooks & app:
 jupyter notebook
 python app/main.py
 Example OutputMatch Score: 82.6%
 Matched Skills: Python, NLP, PandasMissing Skills: Docker, Airflow
 
-###### Future Enhancements
+## Future Enhancements
 Flask/FastAPI deployment
 Skill-gap recommendation system
 Batch processing for multiple resumes
 Recruiter-friendly dashboard
 
-###### Author
-Developed by LIPSA || ITER SOA UNIVERSITY ||
-AI • ML • NLP 
+# LIPSA || ITER SOA UNIVERSITY || AI • ML • NLP 
